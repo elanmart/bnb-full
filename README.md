@@ -19,3 +19,5 @@ This repo is the old, original code that I wrote when working on `BSc`
 thesis.
 
 I stopped developing it once my `AWS` credits run out.
+
+I'll most likely still work on the simplified version soon, though.
