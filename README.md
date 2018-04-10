@@ -7,7 +7,7 @@ You can read more about the contents of this repo on my blog
 * The [how I used it to manage AWS machines configuration](elanmart.github.io/2018-02-09-how-to-aws) part
 
 ### Motivation
-This is **bnb**, my personal manager for managing machine learning experiments
+This is **bnb**, my personal manager for machine learning experiments
 that should be distributed to a set of remote machines.
 
 ### Simplified version
