@@ -3,7 +3,7 @@
 ### Description
 You can read more about the contents of this repo on my blog
 * The [how I used it to manage my ML experiments](elanmart.github.io/2018-02-02-staying-sane) part
-* The [how I used it to schedule jobs to 40 workers on AWS](elanmart.github.io/2018-02-06-bnb-full) part
+* The [how I used it to schedule jobs to multiple workers on AWS](elanmart.github.io/2018-02-06-bnb-full) part
 * The [how I used it to manage AWS machines configuration](elanmart.github.io/2018-02-09-how-to-aws) part
 
 ### Motivation
