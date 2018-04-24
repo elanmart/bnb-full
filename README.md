@@ -2,9 +2,9 @@
 
 ### Description
 You can read more about the contents of this repo on my blog
-* The [how I used it to manage my ML experiments](elanmart.github.io/2018-02-02-staying-sane) part
-* The [how I used it to schedule jobs to multiple workers on AWS](elanmart.github.io/2018-02-06-bnb-full) part
-* The [how I used it to manage AWS machines configuration](elanmart.github.io/2018-02-09-how-to-aws) part
+* The [how I used it to manage my ML experiments](https://elanmart.github.io/2018-02-02-staying-sane) part
+* The [how I used it to schedule jobs to multiple workers on AWS](https://elanmart.github.io/2018-02-06-bnb-full) part
+* The [how I used it to manage AWS machines configuration](https://elanmart.github.io/2018-02-09-how-to-aws) part
 
 ### Motivation
 This is **bnb**, my personal manager for machine learning experiments
